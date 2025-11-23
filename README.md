@@ -19,7 +19,7 @@
 
 ## How to Run
 1. Clone the repository on your device's command-line interface:
-- ```git clone https://github.com/lavrentyorlov/OpenCV2026.git```
+- ```git clone https://github.com/LavrentyOrlov/OpenCV2026.git```
 2. Open the project in Visual Studio.
 3. Build the solution.
 4. Run the program.
